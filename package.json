@@ -1,7 +1,7 @@
 {
   "name": "Btc-credit",
   "version": "1.0.0",
-  "description": "Btc-credit",
+  "description": "Btc-credit smart contracts audit report",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
